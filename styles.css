@@ -1,8 +1,4 @@
 
-.nav-bar{
-    display: flex;
-}
-
-a:hover {
-    text-decoration: none;
+body {
+    background-color: pink;
 }
