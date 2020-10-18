@@ -1,7 +1,5 @@
 
-* {
-    background-color: pink;
-}
+
 
 .nav-bar{
     display: flex;
@@ -11,4 +9,6 @@ li {
   align-content: space-around;
     list-style-type: none;
 }
-
+.nav-colored{
+    background-color: #E0AA98
+}
