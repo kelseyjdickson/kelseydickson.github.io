@@ -8,6 +8,8 @@
 li {
     margin: 20px;
     list-style-type: none;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
 }
 .nav-colored{
     background-color: #E0AA98;
