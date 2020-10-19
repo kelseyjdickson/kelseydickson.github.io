@@ -7,7 +7,7 @@
     display: flex;
 }
 
-li {
+li,a {
     margin: 20px;
     list-style-type: none;
     color: white;
