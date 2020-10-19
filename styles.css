@@ -6,9 +6,10 @@
 }
 
 li {
-  align-content: space-around;
+    margin: 20px;
     list-style-type: none;
 }
 .nav-colored{
     background-color: #E0AA98;
+    margin: 100px;
 }
