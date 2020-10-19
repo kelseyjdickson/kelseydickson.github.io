@@ -1,5 +1,7 @@
 
-
+*{
+    margin: 0
+}
 
 .nav-bar{
     display: flex;
