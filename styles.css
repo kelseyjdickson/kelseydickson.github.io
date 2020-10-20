@@ -12,6 +12,7 @@ li,a {
     list-style-type: none;
     color: white;
     font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
 }
 .nav-colored{
     background-color: #E0AA98;
