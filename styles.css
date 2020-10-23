@@ -16,11 +16,11 @@ body{
 li,a {
     margin: 20px;
     list-style-type: none;
-    font-family: 'Quicksand', sans-serif;
     text-decoration: none;
 }
 .list{
-    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+   
     color:tan;
     font-size: 18px;
 
